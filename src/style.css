@@ -1,9 +1,9 @@
-.container {
-  background-color: wheat;
-  padding: 10px;
-  margin: 0 auto;
+body {
+  background-color: rgb(70, 158, 213) !important;
+  color: rgb(249, 249, 249)!important;
 }
 
-body {
-background-color: rgb(196, 211, 220);
+.container {
+  padding: 10px;
+  margin: 0 auto;
 }
